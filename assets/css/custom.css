@@ -1,0 +1,45 @@
+.img-logo {
+  height: 80px;
+  width: 100px;
+}
+
+.modal1 {
+  margin: 10px;
+}
+
+#links ul>li {
+  margin-top: 30px;
+  padding: 0px;
+}
+
+#links ul {
+  padding: 0;
+}
+
+.img-row-4 {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.img-row-4 img {
+  margin: auto;
+  margin-top: 10px;
+}
+
+#links {
+  margin-top: 50px;
+}
+
+.img-row img {
+  height: 50px;
+  margin: auto;
+  margin-top: 10px;
+}
+
+footer {
+  background: #3e4249;
+  color: white;
+  padding: 80px 0 10px;
+  font-size: 12px;
+  margin-top: 50px;
+}
